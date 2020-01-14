@@ -1,1 +1,2 @@
-# trinkets-project
+# trinkets-project 
+guided lecture
